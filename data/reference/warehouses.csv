@@ -1,0 +1,7 @@
+warehouse_id,city,country_code,local_currency
+WH01,Reno,US,USD
+WH02,Dallas,US,USD
+WH03,Rotterdam,NL,EUR
+WH04,Leipzig,DE,EUR
+WH05,Bengaluru,IN,INR
+WH06,Singapore,SG,SGD
